@@ -1,0 +1,364 @@
+#root {
+  /* max-width: 1280px; */
+  margin: 0;
+  /* padding: 1.5rem; */
+  text-align: center;
+  /* min-height: 100%; */
+  /* padding-bottom: 100px !important; */
+}
+
+/* html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+} */
+
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main-content {
+  flex: 1;
+  padding: 4rem;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+
+/* HEADER.jsx */
+@media (max-width: 574px) {
+  .responsive-header {
+    flex-direction: column !important;
+    text-align: center;
+    justify-items: center;
+  }
+  .responsive-reverse {
+    flex-direction: column-reverse !important;
+    height: auto !important;
+    gap: 1rem;
+  }
+  .logo-img {
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+    margin-top: 25px;
+    margin-bottom: 10px;
+  }
+  .responsive-unsticky {
+    position: static !important;
+  }
+}
+
+/* BREADCRUMB.jsx */
+.breadcrumb-link {
+  text-decoration: none;
+  color: #007bff;
+}
+@media (max-width: 574px) {
+  .responsive-help {
+    flex-direction: column !important;
+    text-align: center;
+    justify-items: center;
+    margin-bottom: 2rem;
+  }
+}
+
+/* NAVBAR.jsx */
+@media (min-width: 801px) {
+  .navbar-toggler {
+    display: none;
+  }
+  .navbar-collapse {
+    display: flex !important;
+    flex-direction: row !important;
+  }
+  .navbar-nav {
+    flex-direction: row !important;
+  }
+}
+@media (max-width: 800px) {
+  .navbar-collapse {
+    flex-direction: column;
+  }
+}
+@media (max-width: 600px) {
+  .navbar-nav {
+    flex-direction: column;
+  }
+}
+
+/* FOOTER.jsx */
+/* @media (max-width: 574px) {
+  .responsive-footer { */
+    /* margin-top: 35vh !important; */
+  /* }
+}
+
+@media (min-width: 575px) {
+  .responsive-footer { */
+    /* margin-top: 8vh !important; */
+  /* }
+} */
+
+@media (max-width: 425px) {
+  .responsive-footer-flex {
+    flex-direction: column !important;
+  }
+}
+
+/* CONTENTBOX.jsx */
+@media (max-width: 729px) {
+  .responsive-contentbox {
+    flex-direction: column !important;
+    align-items: center !important;
+  }
+}
+
+/* CONTROLS.jsx */
+@media (max-width: 370px) {
+  .responsive-controls {
+    flex-direction: column !important;
+    text-align: center;
+    justify-items: center;
+    margin-bottom: 2rem;
+  }
+  .responsive-control-labels {
+    flex-direction: column-reverse !important;
+  }
+}
+
+/* PRESETOPTIONSPANEL.jsx */
+.wrapper {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+.presetOptionsPanelContainer {
+  position: relative;
+  width: 100%;
+  border-top: 1px solid gray;
+  padding: 0px;
+}
+.presetOptionsPanelButton {
+  position: absolute;
+  top: -20px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 10px 20px;
+  cursor: pointer;
+  background-color: #eee;
+  border: 1px solid #ccc;
+  color: black;
+  /* border: none; */
+  border-radius: 2px;
+  font-size: 16px;
+  z-index: 1;
+}
+.panel {
+  width: 100%;
+  overflow: hidden;
+  transition: height 0.3s ease;
+  background-color: #eee;
+  border-radius: 2px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
+  max-height: 100%;
+}
+.content {
+  padding: 20px;
+  padding-top: 50px;
+  width: 100%;
+}
+
+/*  PRESETOPTIONSPANEL.jsx */
+@media (max-width: 450px) {
+  .responsive-preset-options {
+    flex-direction: column !important;
+    /* text-align: center;
+    justify-items: center; */
+    /* margin-bottom: 2rem; */
+  }
+}
+@media (max-width: 1000px) {
+  .responsive-preset-playback-options {
+    flex-direction: column !important;
+  }
+}
+
+/* DropdownSonifierStepper.jsx */
+#stepper2 {
+  display: none;
+}
+@media (min-width: 1400px) {
+  #stepper2 {
+    display: inline-block;
+  }
+}
+
+/* HELPCONTACTUS.jsx */
+.responsive-link {
+  gap: 2rem;
+}
+@media (max-width: 630px) {
+  .responsive-link {
+    flex-direction: column !important;
+    margin-bottom: 2rem;
+    gap: 0rem;
+  }
+}
+
+/* DASHBOARDCONTAINER.jsx */
+.responsive-grid {
+  margin-bottom: 10rem; /* default smaller margin */
+}
+
+@media (max-width: 654px) {
+  .responsive-grid {
+    margin-bottom: 50rem; /* large margin for single column */
+  }
+}
+
+/* PERSONALISEDPRESETOPTIONSPANEL.JSX */
+@media (max-width: 564px) {
+  .responsive-toggle {
+    margin-top: -2rem !important;
+  }
+}
+
+/* PERSONALISEDPRESETVISUALSPANEL.jsx */
+.presetOptionsRightPanelContainer {
+  position: fixed;
+  top: 0;
+  right: 0;
+  height: 100%;
+  width: 0;
+  overflow: hidden;
+  background-color: white;
+  box-shadow: -2px 0 5px rgba(0, 0, 0, 0.2);
+  transition: width 0.3s ease;
+  z-index: 99;
+}
+
+.presetOptionsRightPanelContainer.open {
+  width: 25vw; /* Opens to 25% of screen width */
+}
+
+.rightPanel {
+  margin-top: 4rem !important;
+  width: 25vw;
+  height: 100%;
+  overflow-y: auto;
+  padding: 1rem;
+  overflow-x: auto;
+}
+
+.presetOptionsRightPanelButton {
+  position: fixed;
+  top: 25%;
+  right: 25vw; /* Match the panel width when open */
+  transform: translateY(-50%);
+  background: #eee;
+  border: 1px solid #ccc;
+  border-radius: 4px 0 0 4px;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  z-index: 99;
+  transition: right 0.3s ease;
+}
+
+/* Adjust when panel is closed */
+.presetOptionsRightPanelButton.closed {
+  right: 0;
+}
+
+/* PERSONALISEDPRESETSOUNDPANEL.jsx */
+.presetOptionsLeftPanelContainer {
+  position: fixed;
+  top: 0;
+  left: 0;                /* Change from right: 0 to left: 0 */
+  height: 100%;
+  width: 0;
+  overflow: hidden;
+  background-color: white;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.2);  /* Shadow on the right side */
+  transition: width 0.3s ease;
+  z-index: 99;
+}
+
+.presetOptionsLeftPanelContainer.open {
+  width: 25vw; /* Sidebar expands to 25% width */
+}
+
+.leftPanel {
+  margin-top: 4rem !important;
+  width: 25vw;
+  height: 100%;
+  overflow-y: auto;
+  padding: 1rem;
+  overflow-x: auto;
+}
+
+@media (min-width: 0px) {
+  .responsive-personalised-sound {
+    flex-direction: column !important;
+    /* text-align: center;
+    justify-items: center; */
+    /* margin-bottom: 2rem; */
+  }
+}
+
+/* Toggle button on the left, aligned with sidebar */
+.presetOptionsLeftPanelButton {
+  position: fixed;
+  top: 25%;
+  left: 25vw; /* Position next to the sidebar when open */
+  transform: translateY(-50%);
+  background: #eee;
+  border: 1px solid #ccc;
+  border-radius: 0 4px 4px 0;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  z-index: 99;
+  transition: left 0.3s ease;
+}
+
+/* When sidebar closed, move button flush to the left edge */
+.presetOptionsLeftPanelButton.closed {
+  left: 0;
+}
+
+

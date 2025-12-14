@@ -1,0 +1,2361 @@
+[
+  {
+    "timestamp": "2025-05-22T02:38:03.000Z",
+    "temperature": 23.09,
+    "humidity": 49.96,
+    "soilMoisture": 1.28,
+    "displacement": 0.36
+  },
+  {
+    "timestamp": "2025-05-22T06:21:34.000Z",
+    "temperature": 21.57,
+    "humidity": 50.47,
+    "soilMoisture": 72.54,
+    "displacement": 0.35
+  },
+  {
+    "timestamp": "2025-05-22T06:51:34.000Z",
+    "temperature": 21.41,
+    "humidity": 50.73,
+    "soilMoisture": 72.54,
+    "displacement": 0.3
+  },
+  {
+    "timestamp": "2025-05-22T07:21:35.000Z",
+    "temperature": 21.28,
+    "humidity": 50.75,
+    "soilMoisture": 71.91,
+    "displacement": 0.3
+  },
+  {
+    "timestamp": "2025-05-22T07:51:35.000Z",
+    "temperature": 21.17,
+    "humidity": 50.77,
+    "soilMoisture": 71.91,
+    "displacement": 0.3
+  },
+  {
+    "timestamp": "2025-05-22T11:35:10.000Z",
+    "temperature": 21.03,
+    "humidity": 51.85,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-22T12:05:10.000Z",
+    "temperature": 21.01,
+    "humidity": 51.32,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-22T14:11:55.000Z",
+    "temperature": 20.97,
+    "humidity": 51.07,
+    "soilMoisture": 0.64,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-22T17:55:30.000Z",
+    "temperature": 20.61,
+    "humidity": 49.96,
+    "soilMoisture": 1.27,
+    "displacement": 20.66
+  },
+  {
+    "timestamp": "2025-05-22T21:06:49.000Z",
+    "temperature": 20.03,
+    "humidity": 49.03,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-22T22:09:06.000Z",
+    "temperature": 20.01,
+    "humidity": 49.33,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-22T22:39:07.000Z",
+    "temperature": 19.91,
+    "humidity": 49.33,
+    "soilMoisture": 100,
+    "displacement": 20.68
+  },
+  {
+    "timestamp": "2025-05-23T00:13:36.000Z",
+    "temperature": 19.54,
+    "humidity": 49.65,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-23T00:43:37.000Z",
+    "temperature": 19.39,
+    "humidity": 49.76,
+    "soilMoisture": 100,
+    "displacement": 20.62
+  },
+  {
+    "timestamp": "2025-05-23T01:13:37.000Z",
+    "temperature": 19.3,
+    "humidity": 49.87,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-23T02:48:09.000Z",
+    "temperature": 19,
+    "humidity": 50.15,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-23T10:49:46.000Z",
+    "temperature": 19.09,
+    "humidity": 50.01,
+    "soilMoisture": 100,
+    "displacement": 20.66
+  },
+  {
+    "timestamp": "2025-05-23T14:01:05.000Z",
+    "temperature": 19.61,
+    "humidity": 49.05,
+    "soilMoisture": 100,
+    "displacement": 20.64
+  },
+  {
+    "timestamp": "2025-05-23T14:31:05.000Z",
+    "temperature": 19.61,
+    "humidity": 49.03,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-23T15:01:05.000Z",
+    "temperature": 19.66,
+    "humidity": 49.02,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-23T15:31:06.000Z",
+    "temperature": 19.76,
+    "humidity": 48.89,
+    "soilMoisture": 0.02,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-23T16:01:06.000Z",
+    "temperature": 19.69,
+    "humidity": 49.02,
+    "soilMoisture": 100,
+    "displacement": 20.63
+  },
+  {
+    "timestamp": "2025-05-23T16:31:07.000Z",
+    "temperature": 19.73,
+    "humidity": 49.02,
+    "soilMoisture": 1.27,
+    "displacement": 20.61
+  },
+  {
+    "timestamp": "2025-05-23T17:01:07.000Z",
+    "temperature": 19.66,
+    "humidity": 49.19,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-23T17:31:07.000Z",
+    "temperature": 19.58,
+    "humidity": 49.23,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-05-23T18:33:23.000Z",
+    "temperature": 19.4,
+    "humidity": 49.42,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-23T19:03:23.000Z",
+    "temperature": 19.34,
+    "humidity": 49.46,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-23T21:10:08.000Z",
+    "temperature": 19.23,
+    "humidity": 49.31,
+    "soilMoisture": 100,
+    "displacement": 20.7
+  },
+  {
+    "timestamp": "2025-05-23T21:40:09.000Z",
+    "temperature": 19.15,
+    "humidity": 49.31,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-23T23:14:38.000Z",
+    "temperature": 19,
+    "humidity": 49.62,
+    "soilMoisture": 100,
+    "displacement": 20.69
+  },
+  {
+    "timestamp": "2025-05-23T23:44:39.000Z",
+    "temperature": 18.94,
+    "humidity": 49.7,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-24T00:14:39.000Z",
+    "temperature": 18.9,
+    "humidity": 49.78,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-24T07:11:44.000Z",
+    "temperature": 18.53,
+    "humidity": 51.19,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-24T07:41:45.000Z",
+    "temperature": 18.55,
+    "humidity": 51.27,
+    "soilMoisture": 100,
+    "displacement": 20.66
+  },
+  {
+    "timestamp": "2025-05-24T08:43:59.000Z",
+    "temperature": 18.56,
+    "humidity": 51.53,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-24T09:13:59.000Z",
+    "temperature": 18.59,
+    "humidity": 51.62,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-24T09:44:00.000Z",
+    "temperature": 18.58,
+    "humidity": 51.8,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-24T10:46:16.000Z",
+    "temperature": 18.64,
+    "humidity": 52.02,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-05-24T17:43:23.000Z",
+    "temperature": 19.14,
+    "humidity": 52.39,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-24T18:13:23.000Z",
+    "temperature": 19.12,
+    "humidity": 52.48,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-05-25T01:42:42.000Z",
+    "temperature": 18.9,
+    "humidity": 53.55,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-25T02:44:59.000Z",
+    "temperature": 18.96,
+    "humidity": 53.4,
+    "soilMoisture": 100,
+    "displacement": 20.63
+  },
+  {
+    "timestamp": "2025-05-25T03:14:59.000Z",
+    "temperature": 18.99,
+    "humidity": 53.41,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-25T03:45:00.000Z",
+    "temperature": 18.9,
+    "humidity": 53.59,
+    "soilMoisture": 100,
+    "displacement": 20.63
+  },
+  {
+    "timestamp": "2025-05-25T05:19:32.000Z",
+    "temperature": 18.81,
+    "humidity": 54.07,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-05-26T00:06:16.000Z",
+    "temperature": 19.17,
+    "humidity": 51.27,
+    "soilMoisture": 100,
+    "displacement": 20.63
+  },
+  {
+    "timestamp": "2025-05-26T02:13:04.000Z",
+    "temperature": 19.05,
+    "humidity": 51.16,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-05-26T07:33:25.000Z",
+    "temperature": 18.61,
+    "humidity": 51.44,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-26T08:03:25.000Z",
+    "temperature": 18.66,
+    "humidity": 51.32,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-26T08:33:26.000Z",
+    "temperature": 18.77,
+    "humidity": 51.17,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-05-26T09:03:26.000Z",
+    "temperature": 18.81,
+    "humidity": 51,
+    "soilMoisture": 100,
+    "displacement": 20.7
+  },
+  {
+    "timestamp": "2025-05-26T11:10:15.000Z",
+    "temperature": 19.04,
+    "humidity": 51.21,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-05-26T11:40:15.000Z",
+    "temperature": 19,
+    "humidity": 51.15,
+    "soilMoisture": 100,
+    "displacement": 20.71
+  },
+  {
+    "timestamp": "2025-05-26T12:10:15.000Z",
+    "temperature": 18.93,
+    "humidity": 51.08,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-26T12:40:16.000Z",
+    "temperature": 18.88,
+    "humidity": 51.04,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-26T13:10:16.000Z",
+    "temperature": 18.87,
+    "humidity": 51.4,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-26T13:40:16.000Z",
+    "temperature": 18.96,
+    "humidity": 51.27,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-26T15:47:04.000Z",
+    "temperature": 19.13,
+    "humidity": 51.05,
+    "soilMoisture": 100,
+    "displacement": 20.7
+  },
+  {
+    "timestamp": "2025-05-26T16:17:04.000Z",
+    "temperature": 19.14,
+    "humidity": 51.03,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-05-26T16:47:05.000Z",
+    "temperature": 19.2,
+    "humidity": 50.97,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-05-26T17:17:05.000Z",
+    "temperature": 19.13,
+    "humidity": 51.09,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-26T17:47:05.000Z",
+    "temperature": 19.03,
+    "humidity": 51.44,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-05-26T18:17:05.000Z",
+    "temperature": 18.96,
+    "humidity": 51.58,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-26T22:00:39.000Z",
+    "temperature": 18.75,
+    "humidity": 51.72,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-26T22:30:40.000Z",
+    "temperature": 18.73,
+    "humidity": 51.71,
+    "soilMoisture": 100,
+    "displacement": 20.7
+  },
+  {
+    "timestamp": "2025-05-27T04:23:12.000Z",
+    "temperature": 18.35,
+    "humidity": 53.32,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-27T04:53:13.000Z",
+    "temperature": 18.32,
+    "humidity": 53.37,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-27T05:55:27.000Z",
+    "temperature": 18.29,
+    "humidity": 53.33,
+    "soilMoisture": 100,
+    "displacement": 20.7
+  },
+  {
+    "timestamp": "2025-05-27T06:25:27.000Z",
+    "temperature": 18.32,
+    "humidity": 53.28,
+    "soilMoisture": 100,
+    "displacement": 20.7
+  },
+  {
+    "timestamp": "2025-05-27T11:45:50.000Z",
+    "temperature": 18.48,
+    "humidity": 53.57,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-05-27T15:29:24.000Z",
+    "temperature": 18.55,
+    "humidity": 54.53,
+    "soilMoisture": 100,
+    "displacement": 20.61
+  },
+  {
+    "timestamp": "2025-05-27T17:36:13.000Z",
+    "temperature": 18.52,
+    "humidity": 55.47,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-05-27T18:06:13.000Z",
+    "temperature": 18.48,
+    "humidity": 55.46,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-05-27T19:40:43.000Z",
+    "temperature": 18.41,
+    "humidity": 55.52,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-27T20:10:43.000Z",
+    "temperature": 18.39,
+    "humidity": 55.59,
+    "soilMoisture": 100,
+    "displacement": 20.62
+  },
+  {
+    "timestamp": "2025-05-28T01:31:00.000Z",
+    "temperature": 18.27,
+    "humidity": 55.49,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-28T02:01:01.000Z",
+    "temperature": 18.25,
+    "humidity": 55.49,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-05-28T03:03:15.000Z",
+    "temperature": 18.17,
+    "humidity": 55.49,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-28T03:33:15.000Z",
+    "temperature": 18.17,
+    "humidity": 55.49,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-28T04:03:16.000Z",
+    "temperature": 18.16,
+    "humidity": 55.44,
+    "soilMoisture": 100,
+    "displacement": 20.67
+  },
+  {
+    "timestamp": "2025-05-28T04:33:16.000Z",
+    "temperature": 18.14,
+    "humidity": 55.5,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-28T05:03:16.000Z",
+    "temperature": 18.14,
+    "humidity": 55.46,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-05-28T05:33:17.000Z",
+    "temperature": 18.11,
+    "humidity": 55.44,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-28T06:03:17.000Z",
+    "temperature": 18.21,
+    "humidity": 55.34,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-05-28T06:33:17.000Z",
+    "temperature": 18.21,
+    "humidity": 55.2,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-28T07:03:18.000Z",
+    "temperature": 18.2,
+    "humidity": 55.15,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-28T07:33:18.000Z",
+    "temperature": 18.2,
+    "humidity": 55.23,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-28T09:40:03.000Z",
+    "temperature": 18.41,
+    "humidity": 55.08,
+    "soilMoisture": 100,
+    "displacement": 20.61
+  },
+  {
+    "timestamp": "2025-05-28T10:42:21.000Z",
+    "temperature": 18.55,
+    "humidity": 54.86,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-28T11:12:21.000Z",
+    "temperature": 18.61,
+    "humidity": 54.81,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-05-28T11:42:21.000Z",
+    "temperature": 18.66,
+    "humidity": 54.46,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-05-28T12:44:38.000Z",
+    "temperature": 18.76,
+    "humidity": 54.16,
+    "soilMoisture": 100,
+    "displacement": 20.66
+  },
+  {
+    "timestamp": "2025-05-28T14:51:26.000Z",
+    "temperature": 19.31,
+    "humidity": 53.44,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-28T15:21:26.000Z",
+    "temperature": 19.43,
+    "humidity": 53.29,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-28T16:55:56.000Z",
+    "temperature": 19.23,
+    "humidity": 53.6,
+    "soilMoisture": 100,
+    "displacement": 20.58
+  },
+  {
+    "timestamp": "2025-05-28T19:02:44.000Z",
+    "temperature": 19.15,
+    "humidity": 53.64,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-05-28T19:32:44.000Z",
+    "temperature": 19.11,
+    "humidity": 53.66,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-05-28T20:02:45.000Z",
+    "temperature": 19.1,
+    "humidity": 53.6,
+    "soilMoisture": 100,
+    "displacement": 20.59
+  },
+  {
+    "timestamp": "2025-05-28T23:14:03.000Z",
+    "temperature": 18.99,
+    "humidity": 53.68,
+    "soilMoisture": 100,
+    "displacement": 20.61
+  },
+  {
+    "timestamp": "2025-05-29T00:16:20.000Z",
+    "temperature": 18.95,
+    "humidity": 53.69,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-05-29T01:18:38.000Z",
+    "temperature": 18.88,
+    "humidity": 53.76,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-29T01:48:38.000Z",
+    "temperature": 18.85,
+    "humidity": 53.79,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-29T02:50:53.000Z",
+    "temperature": 18.79,
+    "humidity": 53.95,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-29T03:53:10.000Z",
+    "temperature": 18.74,
+    "humidity": 54.02,
+    "soilMoisture": 100,
+    "displacement": 20.64
+  },
+  {
+    "timestamp": "2025-05-29T04:55:28.000Z",
+    "temperature": 18.77,
+    "humidity": 53.83,
+    "soilMoisture": 100,
+    "displacement": 20.7
+  },
+  {
+    "timestamp": "2025-05-29T17:47:23.000Z",
+    "temperature": 20.08,
+    "humidity": 54.25,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-05-29T21:30:58.000Z",
+    "temperature": 19.99,
+    "humidity": 55.09,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-30T01:14:32.000Z",
+    "temperature": 19.77,
+    "humidity": 55.48,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-05-30T03:21:20.000Z",
+    "temperature": 19.75,
+    "humidity": 55.48,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-05-30T04:55:53.000Z",
+    "temperature": 19.68,
+    "humidity": 55.37,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-30T14:02:01.000Z",
+    "temperature": 20.95,
+    "humidity": 53.85,
+    "soilMoisture": 6.27,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-05-30T15:04:19.000Z",
+    "temperature": 20.86,
+    "humidity": 54.09,
+    "soilMoisture": 3.15,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-05-30T20:56:55.000Z",
+    "temperature": 20.76,
+    "humidity": 54.74,
+    "soilMoisture": 2.52,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-30T21:26:55.000Z",
+    "temperature": 20.77,
+    "humidity": 54.73,
+    "soilMoisture": 3.15,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-31T04:56:14.000Z",
+    "temperature": 20.48,
+    "humidity": 55.2,
+    "soilMoisture": 2.52,
+    "displacement": 20.62
+  },
+  {
+    "timestamp": "2025-05-31T05:26:14.000Z",
+    "temperature": 20.45,
+    "humidity": 55.24,
+    "soilMoisture": 2.52,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-05-31T08:05:15.000Z",
+    "temperature": 20.45,
+    "humidity": 55.36,
+    "soilMoisture": 3.77,
+    "displacement": 20.59
+  },
+  {
+    "timestamp": "2025-05-31T09:07:32.000Z",
+    "temperature": 20.61,
+    "humidity": 55.21,
+    "soilMoisture": 5.65,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-31T10:09:50.000Z",
+    "temperature": 21.09,
+    "humidity": 54.65,
+    "soilMoisture": 12.52,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-31T10:39:50.000Z",
+    "temperature": 21.27,
+    "humidity": 54.43,
+    "soilMoisture": 8.77,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-05-31T11:42:05.000Z",
+    "temperature": 21.48,
+    "humidity": 54.3,
+    "soilMoisture": 13.15,
+    "displacement": 20.63
+  },
+  {
+    "timestamp": "2025-05-31T12:12:05.000Z",
+    "temperature": 21.54,
+    "humidity": 54.26,
+    "soilMoisture": 11.9,
+    "displacement": 20.67
+  },
+  {
+    "timestamp": "2025-05-31T13:46:35.000Z",
+    "temperature": 22.04,
+    "humidity": 53.46,
+    "soilMoisture": 17.52,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-05-31T21:48:12.000Z",
+    "temperature": 21.72,
+    "humidity": 54.7,
+    "soilMoisture": 13.15,
+    "displacement": 20.61
+  },
+  {
+    "timestamp": "2025-06-01T05:49:49.000Z",
+    "temperature": 21.03,
+    "humidity": 54.64,
+    "soilMoisture": 11.27,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-01T06:19:50.000Z",
+    "temperature": 20.99,
+    "humidity": 54.67,
+    "soilMoisture": 13.15,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-01T07:54:19.000Z",
+    "temperature": 21.04,
+    "humidity": 54.36,
+    "soilMoisture": 16.27,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-01T08:56:37.000Z",
+    "temperature": 21.16,
+    "humidity": 53.89,
+    "soilMoisture": 16.9,
+    "displacement": 20.61
+  },
+  {
+    "timestamp": "2025-06-01T09:26:37.000Z",
+    "temperature": 21.25,
+    "humidity": 53.7,
+    "soilMoisture": 18.77,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-01T10:28:52.000Z",
+    "temperature": 21.36,
+    "humidity": 53.54,
+    "soilMoisture": 20.02,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-01T14:12:26.000Z",
+    "temperature": 21.81,
+    "humidity": 52.18,
+    "soilMoisture": 21.27,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-01T15:14:44.000Z",
+    "temperature": 21.68,
+    "humidity": 52.08,
+    "soilMoisture": 20.02,
+    "displacement": 20.58
+  },
+  {
+    "timestamp": "2025-06-01T17:21:32.000Z",
+    "temperature": 21.69,
+    "humidity": 51.87,
+    "soilMoisture": 18.77,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-01T18:23:50.000Z",
+    "temperature": 21.5,
+    "humidity": 52.19,
+    "soilMoisture": 16.9,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-01T22:39:39.000Z",
+    "temperature": 21.1,
+    "humidity": 52.61,
+    "soilMoisture": 17.52,
+    "displacement": 20.64
+  },
+  {
+    "timestamp": "2025-06-02T00:14:12.000Z",
+    "temperature": 21.09,
+    "humidity": 52.48,
+    "soilMoisture": 18.77,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-02T00:44:13.000Z",
+    "temperature": 21,
+    "humidity": 52.67,
+    "soilMoisture": 18.77,
+    "displacement": 20.55
+  },
+  {
+    "timestamp": "2025-06-02T01:14:13.000Z",
+    "temperature": 20.9,
+    "humidity": 52.88,
+    "soilMoisture": 19.4,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-02T01:44:14.000Z",
+    "temperature": 20.84,
+    "humidity": 52.94,
+    "soilMoisture": 16.9,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-02T02:46:31.000Z",
+    "temperature": 20.72,
+    "humidity": 53.21,
+    "soilMoisture": 18.15,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-02T06:30:06.000Z",
+    "temperature": 20.35,
+    "humidity": 53.29,
+    "soilMoisture": 18.15,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-02T07:00:06.000Z",
+    "temperature": 20.42,
+    "humidity": 53.18,
+    "soilMoisture": 18.77,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-02T08:02:21.000Z",
+    "temperature": 20.47,
+    "humidity": 52.77,
+    "soilMoisture": 20.02,
+    "displacement": 20.54
+  },
+  {
+    "timestamp": "2025-06-02T08:32:21.000Z",
+    "temperature": 20.45,
+    "humidity": 52.84,
+    "soilMoisture": 20.02,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-02T09:02:21.000Z",
+    "temperature": 20.46,
+    "humidity": 52.91,
+    "soilMoisture": 18.77,
+    "displacement": 20.59
+  },
+  {
+    "timestamp": "2025-06-02T12:13:39.000Z",
+    "temperature": 21.13,
+    "humidity": 51.69,
+    "soilMoisture": 26.9,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-02T15:24:58.000Z",
+    "temperature": 21.64,
+    "humidity": 50.49,
+    "soilMoisture": 30.03,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-02T20:45:18.000Z",
+    "temperature": 20.88,
+    "humidity": 50.83,
+    "soilMoisture": 3.15,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-02T21:47:36.000Z",
+    "temperature": 20.8,
+    "humidity": 50.72,
+    "soilMoisture": 24.4,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-02T22:17:37.000Z",
+    "temperature": 20.9,
+    "humidity": 50.2,
+    "soilMoisture": 24.4,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-02T22:47:37.000Z",
+    "temperature": 20.84,
+    "humidity": 49.99,
+    "soilMoisture": 23.78,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-02T23:17:37.000Z",
+    "temperature": 20.77,
+    "humidity": 50.2,
+    "soilMoisture": 21.27,
+    "displacement": 20.67
+  },
+  {
+    "timestamp": "2025-06-02T23:47:38.000Z",
+    "temperature": 20.62,
+    "humidity": 50.37,
+    "soilMoisture": 22.53,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-03T00:17:38.000Z",
+    "temperature": 20.52,
+    "humidity": 50.32,
+    "soilMoisture": 25.03,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-03T06:42:28.000Z",
+    "temperature": 19.84,
+    "humidity": 50.95,
+    "soilMoisture": 26.28,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-03T16:20:52.000Z",
+    "temperature": 19.76,
+    "humidity": 53.5,
+    "soilMoisture": 30.03,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-03T16:50:52.000Z",
+    "temperature": 19.81,
+    "humidity": 53.59,
+    "soilMoisture": 31.28,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-03T17:20:52.000Z",
+    "temperature": 19.81,
+    "humidity": 53.51,
+    "soilMoisture": 30.03,
+    "displacement": 20.61
+  },
+  {
+    "timestamp": "2025-06-03T17:50:52.000Z",
+    "temperature": 19.73,
+    "humidity": 53.66,
+    "soilMoisture": 31.28,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-03T18:20:53.000Z",
+    "temperature": 19.76,
+    "humidity": 53.51,
+    "soilMoisture": 31.28,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-03T18:50:53.000Z",
+    "temperature": 19.72,
+    "humidity": 53.29,
+    "soilMoisture": 30.03,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-04T02:52:30.000Z",
+    "temperature": 18.94,
+    "humidity": 53.49,
+    "soilMoisture": 28.78,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-04T06:03:49.000Z",
+    "temperature": 18.78,
+    "humidity": 53.36,
+    "soilMoisture": 29.4,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-04T06:33:49.000Z",
+    "temperature": 18.72,
+    "humidity": 53.49,
+    "soilMoisture": 31.28,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-04T07:03:50.000Z",
+    "temperature": 18.7,
+    "humidity": 53.53,
+    "soilMoisture": 32.53,
+    "displacement": 20.63
+  },
+  {
+    "timestamp": "2025-06-04T09:42:52.000Z",
+    "temperature": 19.03,
+    "humidity": 53.22,
+    "soilMoisture": 36.9,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-04T10:12:52.000Z",
+    "temperature": 19.14,
+    "humidity": 52.98,
+    "soilMoisture": 36.9,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-04T10:42:53.000Z",
+    "temperature": 19.11,
+    "humidity": 52.62,
+    "soilMoisture": 35.65,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-04T11:12:53.000Z",
+    "temperature": 19.08,
+    "humidity": 52.61,
+    "soilMoisture": 36.9,
+    "displacement": 20.58
+  },
+  {
+    "timestamp": "2025-06-04T12:15:11.000Z",
+    "temperature": 19.18,
+    "humidity": 52.03,
+    "soilMoisture": 35.65,
+    "displacement": 20.64
+  },
+  {
+    "timestamp": "2025-06-04T15:26:30.000Z",
+    "temperature": 19.72,
+    "humidity": 51.8,
+    "soilMoisture": 53.16,
+    "displacement": 20.55
+  },
+  {
+    "timestamp": "2025-06-05T00:00:23.000Z",
+    "temperature": 19.1,
+    "humidity": 52.72,
+    "soilMoisture": 41.9,
+    "displacement": 20.7
+  },
+  {
+    "timestamp": "2025-06-05T08:02:00.000Z",
+    "temperature": 18.5,
+    "humidity": 53.96,
+    "soilMoisture": 37.53,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-05T09:04:18.000Z",
+    "temperature": 18.53,
+    "humidity": 54.19,
+    "soilMoisture": 40.03,
+    "displacement": 20.64
+  },
+  {
+    "timestamp": "2025-06-05T14:24:38.000Z",
+    "temperature": 18.73,
+    "humidity": 54.58,
+    "soilMoisture": 42.53,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-05T14:54:38.000Z",
+    "temperature": 18.76,
+    "humidity": 54.73,
+    "soilMoisture": 42.53,
+    "displacement": 20.61
+  },
+  {
+    "timestamp": "2025-06-05T20:14:56.000Z",
+    "temperature": 18.67,
+    "humidity": 55.02,
+    "soilMoisture": 42.53,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-05T21:17:13.000Z",
+    "temperature": 18.56,
+    "humidity": 55.21,
+    "soilMoisture": 41.9,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-05T23:24:02.000Z",
+    "temperature": 18.4,
+    "humidity": 55.19,
+    "soilMoisture": 41.9,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-06T00:58:35.000Z",
+    "temperature": 18.27,
+    "humidity": 55.33,
+    "soilMoisture": 41.9,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-06T03:05:23.000Z",
+    "temperature": 18.16,
+    "humidity": 55.14,
+    "soilMoisture": 41.9,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-06T14:52:48.000Z",
+    "temperature": 19.17,
+    "humidity": 53.44,
+    "soilMoisture": 52.53,
+    "displacement": 20.66
+  },
+  {
+    "timestamp": "2025-06-06T15:22:48.000Z",
+    "temperature": 19.18,
+    "humidity": 53.44,
+    "soilMoisture": 50.66,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-06T15:52:48.000Z",
+    "temperature": 19.26,
+    "humidity": 53.34,
+    "soilMoisture": 51.28,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-06T16:22:48.000Z",
+    "temperature": 19.22,
+    "humidity": 53.32,
+    "soilMoisture": 51.91,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-06T17:57:22.000Z",
+    "temperature": 19.33,
+    "humidity": 52.83,
+    "soilMoisture": 48.78,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-06T18:59:40.000Z",
+    "temperature": 19.17,
+    "humidity": 52.86,
+    "soilMoisture": 48.16,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-06T21:06:28.000Z",
+    "temperature": 18.83,
+    "humidity": 53.43,
+    "soilMoisture": 46.28,
+    "displacement": 20.64
+  },
+  {
+    "timestamp": "2025-06-06T21:36:29.000Z",
+    "temperature": 18.81,
+    "humidity": 53.44,
+    "soilMoisture": 46.28,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-06T22:06:29.000Z",
+    "temperature": 18.78,
+    "humidity": 53.45,
+    "soilMoisture": 45.66,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-06T22:36:29.000Z",
+    "temperature": 18.79,
+    "humidity": 53.48,
+    "soilMoisture": 46.28,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-07T08:47:09.000Z",
+    "temperature": 18.36,
+    "humidity": 54.34,
+    "soilMoisture": 53.16,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-07T16:48:46.000Z",
+    "temperature": 18.64,
+    "humidity": 54.61,
+    "soilMoisture": 53.16,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-07T22:41:22.000Z",
+    "temperature": 18.21,
+    "humidity": 55.29,
+    "soilMoisture": 55.03,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-07T23:11:22.000Z",
+    "temperature": 18.18,
+    "humidity": 55.29,
+    "soilMoisture": 56.28,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-07T23:41:22.000Z",
+    "temperature": 18.13,
+    "humidity": 55.32,
+    "soilMoisture": 55.03,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-08T00:11:23.000Z",
+    "temperature": 18.14,
+    "humidity": 55.27,
+    "soilMoisture": 56.91,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-08T00:41:23.000Z",
+    "temperature": 18.12,
+    "humidity": 55.24,
+    "soilMoisture": 56.28,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-08T01:11:23.000Z",
+    "temperature": 18.06,
+    "humidity": 55.32,
+    "soilMoisture": 55.66,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-08T01:41:24.000Z",
+    "temperature": 18,
+    "humidity": 55.38,
+    "soilMoisture": 56.91,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-08T02:11:24.000Z",
+    "temperature": 17.89,
+    "humidity": 55.55,
+    "soilMoisture": 55.66,
+    "displacement": 20.61
+  },
+  {
+    "timestamp": "2025-06-08T02:41:24.000Z",
+    "temperature": 17.83,
+    "humidity": 55.7,
+    "soilMoisture": 57.53,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-08T03:11:25.000Z",
+    "temperature": 17.76,
+    "humidity": 55.77,
+    "soilMoisture": 56.28,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-08T04:45:54.000Z",
+    "temperature": 17.56,
+    "humidity": 55.93,
+    "soilMoisture": 58.78,
+    "displacement": 20.61
+  },
+  {
+    "timestamp": "2025-06-08T07:57:13.000Z",
+    "temperature": 17.47,
+    "humidity": 55.71,
+    "soilMoisture": 60.66,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-08T08:27:14.000Z",
+    "temperature": 17.57,
+    "humidity": 55.52,
+    "soilMoisture": 61.28,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-08T13:47:31.000Z",
+    "temperature": 18.75,
+    "humidity": 53.56,
+    "soilMoisture": 68.16,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-08T14:17:31.000Z",
+    "temperature": 18.85,
+    "humidity": 53.44,
+    "soilMoisture": 70.04,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-08T14:47:32.000Z",
+    "temperature": 18.78,
+    "humidity": 53.42,
+    "soilMoisture": 64.41,
+    "displacement": 20.62
+  },
+  {
+    "timestamp": "2025-06-08T15:49:48.000Z",
+    "temperature": 18.76,
+    "humidity": 53.38,
+    "soilMoisture": 60.66,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-08T19:33:22.000Z",
+    "temperature": 18.47,
+    "humidity": 53.68,
+    "soilMoisture": 60.66,
+    "displacement": 20.58
+  },
+  {
+    "timestamp": "2025-06-08T23:49:12.000Z",
+    "temperature": 18.35,
+    "humidity": 53.85,
+    "soilMoisture": 61.91,
+    "displacement": 20.66
+  },
+  {
+    "timestamp": "2025-06-09T03:32:46.000Z",
+    "temperature": 17.89,
+    "humidity": 54.37,
+    "soilMoisture": 61.91,
+    "displacement": 20.63
+  },
+  {
+    "timestamp": "2025-06-09T06:44:06.000Z",
+    "temperature": 17.79,
+    "humidity": 54.37,
+    "soilMoisture": 65.66,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-09T07:46:23.000Z",
+    "temperature": 17.95,
+    "humidity": 53.97,
+    "soilMoisture": 66.91,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-09T08:16:24.000Z",
+    "temperature": 17.96,
+    "humidity": 54.08,
+    "soilMoisture": 68.16,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-09T08:46:24.000Z",
+    "temperature": 18,
+    "humidity": 54.34,
+    "soilMoisture": 70.04,
+    "displacement": 20.59
+  },
+  {
+    "timestamp": "2025-06-09T09:48:40.000Z",
+    "temperature": 18.12,
+    "humidity": 54.42,
+    "soilMoisture": 70.04,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-09T10:18:40.000Z",
+    "temperature": 18.2,
+    "humidity": 54.36,
+    "soilMoisture": 71.29,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-09T10:48:40.000Z",
+    "temperature": 18.23,
+    "humidity": 54.34,
+    "soilMoisture": 70.66,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-09T11:18:41.000Z",
+    "temperature": 18.31,
+    "humidity": 54.2,
+    "soilMoisture": 71.91,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-09T11:48:41.000Z",
+    "temperature": 18.41,
+    "humidity": 54.07,
+    "soilMoisture": 73.16,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-09T12:50:56.000Z",
+    "temperature": 18.51,
+    "humidity": 53.97,
+    "soilMoisture": 73.16,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-09T14:25:29.000Z",
+    "temperature": 19.07,
+    "humidity": 53.27,
+    "soilMoisture": 75.04,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-09T14:55:30.000Z",
+    "temperature": 19.15,
+    "humidity": 53.14,
+    "soilMoisture": 73.79,
+    "displacement": 20.55
+  },
+  {
+    "timestamp": "2025-06-09T16:29:59.000Z",
+    "temperature": 19.04,
+    "humidity": 53.28,
+    "soilMoisture": 70.66,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-09T17:00:00.000Z",
+    "temperature": 18.99,
+    "humidity": 53.41,
+    "soilMoisture": 71.91,
+    "displacement": 20.61
+  },
+  {
+    "timestamp": "2025-06-09T18:34:30.000Z",
+    "temperature": 18.91,
+    "humidity": 53.58,
+    "soilMoisture": 70.04,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-09T19:04:30.000Z",
+    "temperature": 18.86,
+    "humidity": 53.67,
+    "soilMoisture": 70.04,
+    "displacement": 20.64
+  },
+  {
+    "timestamp": "2025-06-09T19:34:30.000Z",
+    "temperature": 18.82,
+    "humidity": 53.75,
+    "soilMoisture": 68.79,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-09T20:04:31.000Z",
+    "temperature": 18.79,
+    "humidity": 53.82,
+    "soilMoisture": 70.66,
+    "displacement": 20.55
+  },
+  {
+    "timestamp": "2025-06-09T20:34:31.000Z",
+    "temperature": 18.74,
+    "humidity": 53.91,
+    "soilMoisture": 70.66,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-09T21:04:32.000Z",
+    "temperature": 18.71,
+    "humidity": 54.04,
+    "soilMoisture": 69.41,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-09T23:11:19.000Z",
+    "temperature": 18.8,
+    "humidity": 53.84,
+    "soilMoisture": 70.66,
+    "displacement": 20.66
+  },
+  {
+    "timestamp": "2025-06-09T23:41:19.000Z",
+    "temperature": 18.74,
+    "humidity": 53.9,
+    "soilMoisture": 70.66,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-10T01:48:04.000Z",
+    "temperature": 18.55,
+    "humidity": 54.44,
+    "soilMoisture": 71.29,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-10T02:18:05.000Z",
+    "temperature": 18.52,
+    "humidity": 54.54,
+    "soilMoisture": 71.91,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-10T02:48:05.000Z",
+    "temperature": 18.5,
+    "humidity": 54.6,
+    "soilMoisture": 70.66,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-10T04:54:52.000Z",
+    "temperature": 18.38,
+    "humidity": 54.68,
+    "soilMoisture": 72.54,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-10T05:24:52.000Z",
+    "temperature": 18.37,
+    "humidity": 54.7,
+    "soilMoisture": 73.79,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-10T05:54:52.000Z",
+    "temperature": 18.43,
+    "humidity": 54.64,
+    "soilMoisture": 73.79,
+    "displacement": 20.61
+  },
+  {
+    "timestamp": "2025-06-10T08:01:40.000Z",
+    "temperature": 18.44,
+    "humidity": 54.86,
+    "soilMoisture": 75.04,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-10T08:31:40.000Z",
+    "temperature": 18.48,
+    "humidity": 54.88,
+    "soilMoisture": 75.66,
+    "displacement": 20.58
+  },
+  {
+    "timestamp": "2025-06-10T11:42:56.000Z",
+    "temperature": 18.62,
+    "humidity": 55.1,
+    "soilMoisture": 75.66,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-10T13:17:29.000Z",
+    "temperature": 18.77,
+    "humidity": 54.93,
+    "soilMoisture": 78.16,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-11T00:00:23.000Z",
+    "temperature": 19.22,
+    "humidity": 54.17,
+    "soilMoisture": 76.91,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-11T08:02:00.000Z",
+    "temperature": 18.91,
+    "humidity": 55.06,
+    "soilMoisture": 81.29,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-11T09:36:33.000Z",
+    "temperature": 18.93,
+    "humidity": 55.29,
+    "soilMoisture": 83.79,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-11T10:06:33.000Z",
+    "temperature": 18.92,
+    "humidity": 55.38,
+    "soilMoisture": 84.42,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-11T11:41:03.000Z",
+    "temperature": 19.01,
+    "humidity": 55.42,
+    "soilMoisture": 83.79,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-11T12:11:03.000Z",
+    "temperature": 19.04,
+    "humidity": 55.48,
+    "soilMoisture": 85.04,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-11T12:41:04.000Z",
+    "temperature": 19.18,
+    "humidity": 55.23,
+    "soilMoisture": 85.67,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-11T13:43:20.000Z",
+    "temperature": 19.52,
+    "humidity": 54.78,
+    "soilMoisture": 86.92,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-11T14:13:20.000Z",
+    "temperature": 19.66,
+    "humidity": 54.6,
+    "soilMoisture": 87.54,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-11T17:24:36.000Z",
+    "temperature": 20.01,
+    "humidity": 54.4,
+    "soilMoisture": 88.79,
+    "displacement": 20.61
+  },
+  {
+    "timestamp": "2025-06-11T18:26:54.000Z",
+    "temperature": 19.91,
+    "humidity": 54.6,
+    "soilMoisture": 90.04,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-11T19:29:11.000Z",
+    "temperature": 19.77,
+    "humidity": 54.65,
+    "soilMoisture": 88.17,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-11T21:03:44.000Z",
+    "temperature": 19.73,
+    "humidity": 54.44,
+    "soilMoisture": 86.29,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-11T21:33:45.000Z",
+    "temperature": 19.69,
+    "humidity": 54.35,
+    "soilMoisture": 86.29,
+    "displacement": 20.61
+  },
+  {
+    "timestamp": "2025-06-11T22:03:45.000Z",
+    "temperature": 19.64,
+    "humidity": 54.47,
+    "soilMoisture": 86.92,
+    "displacement": 20.59
+  },
+  {
+    "timestamp": "2025-06-11T23:38:17.000Z",
+    "temperature": 19.5,
+    "humidity": 54.42,
+    "soilMoisture": 89.42,
+    "displacement": 20.59
+  },
+  {
+    "timestamp": "2025-06-12T00:08:17.000Z",
+    "temperature": 19.48,
+    "humidity": 54.39,
+    "soilMoisture": 87.54,
+    "displacement": 20.62
+  },
+  {
+    "timestamp": "2025-06-12T00:38:18.000Z",
+    "temperature": 19.4,
+    "humidity": 54.54,
+    "soilMoisture": 88.17,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-12T01:08:18.000Z",
+    "temperature": 19.36,
+    "humidity": 54.63,
+    "soilMoisture": 88.79,
+    "displacement": 20.66
+  },
+  {
+    "timestamp": "2025-06-12T01:38:18.000Z",
+    "temperature": 19.33,
+    "humidity": 54.75,
+    "soilMoisture": 89.42,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-12T02:40:33.000Z",
+    "temperature": 19.23,
+    "humidity": 54.94,
+    "soilMoisture": 89.42,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-12T03:42:51.000Z",
+    "temperature": 19.22,
+    "humidity": 54.97,
+    "soilMoisture": 90.04,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-12T04:12:51.000Z",
+    "temperature": 19.25,
+    "humidity": 54.87,
+    "soilMoisture": 90.67,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-12T04:42:51.000Z",
+    "temperature": 19.24,
+    "humidity": 54.84,
+    "soilMoisture": 90.67,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-12T06:49:38.000Z",
+    "temperature": 19.15,
+    "humidity": 55.1,
+    "soilMoisture": 91.29,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-12T07:19:39.000Z",
+    "temperature": 19.18,
+    "humidity": 55,
+    "soilMoisture": 95.04,
+    "displacement": 20.55
+  },
+  {
+    "timestamp": "2025-06-12T07:49:39.000Z",
+    "temperature": 19.22,
+    "humidity": 54.95,
+    "soilMoisture": 96.29,
+    "displacement": 20.63
+  },
+  {
+    "timestamp": "2025-06-12T14:14:29.000Z",
+    "temperature": 20.14,
+    "humidity": 54.23,
+    "soilMoisture": 100,
+    "displacement": 20.61
+  },
+  {
+    "timestamp": "2025-06-12T17:25:48.000Z",
+    "temperature": 20.34,
+    "humidity": 54.91,
+    "soilMoisture": 98.79,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-12T17:55:48.000Z",
+    "temperature": 20.33,
+    "humidity": 55.09,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-12T18:25:49.000Z",
+    "temperature": 20.35,
+    "humidity": 55.24,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-12T18:55:49.000Z",
+    "temperature": 20.41,
+    "humidity": 55.26,
+    "soilMoisture": 98.79,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-12T19:58:07.000Z",
+    "temperature": 20.45,
+    "humidity": 55.25,
+    "soilMoisture": 98.17,
+    "displacement": 20.66
+  },
+  {
+    "timestamp": "2025-06-12T21:32:40.000Z",
+    "temperature": 20.32,
+    "humidity": 55.51,
+    "soilMoisture": 99.42,
+    "displacement": 20.62
+  },
+  {
+    "timestamp": "2025-06-12T22:02:40.000Z",
+    "temperature": 20.33,
+    "humidity": 55.58,
+    "soilMoisture": 100,
+    "displacement": 20.67
+  },
+  {
+    "timestamp": "2025-06-12T22:32:41.000Z",
+    "temperature": 20.31,
+    "humidity": 55.57,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-12T23:02:41.000Z",
+    "temperature": 20.31,
+    "humidity": 55.61,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-12T23:32:42.000Z",
+    "temperature": 20.31,
+    "humidity": 55.6,
+    "soilMoisture": 99.42,
+    "displacement": 20.63
+  },
+  {
+    "timestamp": "2025-06-13T00:02:42.000Z",
+    "temperature": 20.27,
+    "humidity": 55.7,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-13T00:32:42.000Z",
+    "temperature": 20.25,
+    "humidity": 55.8,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-13T01:35:01.000Z",
+    "temperature": 20.19,
+    "humidity": 55.93,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-13T02:05:01.000Z",
+    "temperature": 20.15,
+    "humidity": 55.96,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-13T02:35:02.000Z",
+    "temperature": 20.22,
+    "humidity": 55.86,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-13T03:05:02.000Z",
+    "temperature": 20.27,
+    "humidity": 55.76,
+    "soilMoisture": 99.42,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-13T04:07:20.000Z",
+    "temperature": 20.17,
+    "humidity": 55.84,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-13T04:37:21.000Z",
+    "temperature": 20.16,
+    "humidity": 56.04,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-13T18:33:43.000Z",
+    "temperature": 22.23,
+    "humidity": 54.79,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-13T22:17:18.000Z",
+    "temperature": 21.98,
+    "humidity": 55.69,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-13T22:47:18.000Z",
+    "temperature": 21.99,
+    "humidity": 55.7,
+    "soilMoisture": 100,
+    "displacement": 20.67
+  },
+  {
+    "timestamp": "2025-06-13T23:17:19.000Z",
+    "temperature": 21.99,
+    "humidity": 55.83,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-14T00:19:35.000Z",
+    "temperature": 21.91,
+    "humidity": 55.93,
+    "soilMoisture": 100,
+    "displacement": 20.66
+  },
+  {
+    "timestamp": "2025-06-14T00:49:35.000Z",
+    "temperature": 21.9,
+    "humidity": 56.04,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-14T01:19:35.000Z",
+    "temperature": 21.88,
+    "humidity": 56.07,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-14T02:21:52.000Z",
+    "temperature": 21.9,
+    "humidity": 55.95,
+    "soilMoisture": 100,
+    "displacement": 20.55
+  },
+  {
+    "timestamp": "2025-06-14T03:24:09.000Z",
+    "temperature": 21.77,
+    "humidity": 56.26,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-14T03:54:10.000Z",
+    "temperature": 21.74,
+    "humidity": 56.37,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-14T13:32:30.000Z",
+    "temperature": 22.9,
+    "humidity": 54.54,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-14T16:41:39.000Z",
+    "temperature": 23.06,
+    "humidity": 53.85,
+    "soilMoisture": 100,
+    "displacement": 20.62
+  },
+  {
+    "timestamp": "2025-06-14T17:43:53.000Z",
+    "temperature": 22.98,
+    "humidity": 53.68,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-14T18:13:54.000Z",
+    "temperature": 22.86,
+    "humidity": 53.82,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-14T18:43:54.000Z",
+    "temperature": 22.73,
+    "humidity": 53.96,
+    "soilMoisture": 100,
+    "displacement": 20.55
+  },
+  {
+    "timestamp": "2025-06-14T19:13:55.000Z",
+    "temperature": 22.66,
+    "humidity": 54.06,
+    "soilMoisture": 100,
+    "displacement": 20.58
+  },
+  {
+    "timestamp": "2025-06-14T19:43:55.000Z",
+    "temperature": 22.58,
+    "humidity": 54.13,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-14T20:13:55.000Z",
+    "temperature": 22.49,
+    "humidity": 54.14,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-14T21:16:12.000Z",
+    "temperature": 22.39,
+    "humidity": 54.28,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-14T21:46:12.000Z",
+    "temperature": 22.28,
+    "humidity": 54.39,
+    "soilMoisture": 100,
+    "displacement": 20.67
+  },
+  {
+    "timestamp": "2025-06-14T22:16:12.000Z",
+    "temperature": 22.26,
+    "humidity": 54.47,
+    "soilMoisture": 100,
+    "displacement": 20.64
+  },
+  {
+    "timestamp": "2025-06-14T23:18:29.000Z",
+    "temperature": 22.21,
+    "humidity": 54.49,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-14T23:48:29.000Z",
+    "temperature": 22.16,
+    "humidity": 54.45,
+    "soilMoisture": 100,
+    "displacement": 20.61
+  },
+  {
+    "timestamp": "2025-06-15T00:18:29.000Z",
+    "temperature": 22.11,
+    "humidity": 54.48,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-15T01:20:46.000Z",
+    "temperature": 22.04,
+    "humidity": 54.55,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-15T01:50:46.000Z",
+    "temperature": 21.93,
+    "humidity": 54.7,
+    "soilMoisture": 100,
+    "displacement": 20.66
+  },
+  {
+    "timestamp": "2025-06-15T04:29:47.000Z",
+    "temperature": 21.5,
+    "humidity": 55.06,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-15T06:36:35.000Z",
+    "temperature": 21.31,
+    "humidity": 54.96,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-15T09:15:39.000Z",
+    "temperature": 21.61,
+    "humidity": 54.53,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-15T12:26:58.000Z",
+    "temperature": 22.14,
+    "humidity": 54.06,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-15T21:00:50.000Z",
+    "temperature": 22.02,
+    "humidity": 53.96,
+    "soilMoisture": 100,
+    "displacement": 20.61
+  },
+  {
+    "timestamp": "2025-06-16T03:57:57.000Z",
+    "temperature": 21.46,
+    "humidity": 54.93,
+    "soilMoisture": 100,
+    "displacement": 20.65
+  },
+  {
+    "timestamp": "2025-06-16T05:32:30.000Z",
+    "temperature": 21.31,
+    "humidity": 54.93,
+    "soilMoisture": 100,
+    "displacement": 20.59
+  },
+  {
+    "timestamp": "2025-06-16T07:07:03.000Z",
+    "temperature": 21.37,
+    "humidity": 54.8,
+    "soilMoisture": 0.02,
+    "displacement": 20.62
+  },
+  {
+    "timestamp": "2025-06-16T08:09:20.000Z",
+    "temperature": 21.5,
+    "humidity": 54.7,
+    "soilMoisture": 100,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-16T14:01:56.000Z",
+    "temperature": 22.7,
+    "humidity": 53.19,
+    "soilMoisture": 8.15,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-16T17:13:15.000Z",
+    "temperature": 22.97,
+    "humidity": 53.07,
+    "soilMoisture": 7.52,
+    "displacement": 20.55
+  },
+  {
+    "timestamp": "2025-06-16T23:05:51.000Z",
+    "temperature": 22.54,
+    "humidity": 54.08,
+    "soilMoisture": 11.9,
+    "displacement": 20.55
+  },
+  {
+    "timestamp": "2025-06-17T00:08:09.000Z",
+    "temperature": 22.41,
+    "humidity": 54.3,
+    "soilMoisture": 10.65,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-17T01:42:42.000Z",
+    "temperature": 22.22,
+    "humidity": 54.59,
+    "soilMoisture": 12.53,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-17T10:16:34.000Z",
+    "temperature": 22.32,
+    "humidity": 54.4,
+    "soilMoisture": 25.03,
+    "displacement": 20.61
+  },
+  {
+    "timestamp": "2025-06-17T14:00:09.000Z",
+    "temperature": 23.22,
+    "humidity": 53.19,
+    "soilMoisture": 28.15,
+    "displacement": 20.6
+  },
+  {
+    "timestamp": "2025-06-17T15:34:42.000Z",
+    "temperature": 23.83,
+    "humidity": 49.25,
+    "soilMoisture": 100,
+    "displacement": 20.5
+  },
+  {
+    "timestamp": "2025-06-17T17:09:15.000Z",
+    "temperature": 23.98,
+    "humidity": 47.69,
+    "soilMoisture": 95.04,
+    "displacement": 20.45
+  },
+  {
+    "timestamp": "2025-06-17T18:11:32.000Z",
+    "temperature": 23.91,
+    "humidity": 47.98,
+    "soilMoisture": 80.04,
+    "displacement": 20.45
+  },
+  {
+    "timestamp": "2025-06-17T18:11:32.000Z",
+    "temperature": 23.91,
+    "humidity": 47.98,
+    "soilMoisture": 80.04,
+    "displacement": 20.45
+  }
+]
